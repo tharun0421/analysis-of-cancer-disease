@@ -14,10 +14,3 @@ The Algorithms used are :
 * kNN
 * kMeans clustering
 * RandomForestClassifier
-  
-Screenshots
-Screenshot 1
-
-Screenshot 2
-
-Screenshot 3
